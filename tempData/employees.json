@@ -1,0 +1,10 @@
+{
+  "employeeData" : [
+    { "id": 1, "name": "Mukesh", "email":"mukesh@abc.com", "salary":"21.5 LPA", "phone":"9000099009", "picture":"https://images.unsplash.com/photo-1597248374161-426f0d6d2fc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60","position": "Web Dev" },
+    { "id": 2, "name": "Ramesh", "email":"ramesh@abc.com", "salary":"18 LPA", "phone":"9000099009", "picture":"https://images.unsplash.com/photo-1597248374161-426f0d6d2fc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60", "position": "Dev Ops" },
+    { "id": 3, "name": "Suresh", "email":"abc@abc.com", "salary":"26 LPA", "phone":"9000099009", "picture":"https://images.unsplash.com/photo-1597248374161-426f0d6d2fc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60", "position": "Project Manager" },
+    { "id": 4, "name": "Fukesh", "email":"abc@abc.com", "salary":"8 LPA", "phone":"9000099009", "picture":"https://images.unsplash.com/photo-1597248374161-426f0d6d2fc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60", "position": "Field Officer" },
+    { "id": 5, "name": "Jokesh", "email":"abc@abc.com", "salary":"8 LPA", "phone":"9000099009", "picture":"https://images.unsplash.com/photo-1597248374161-426f0d6d2fc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60", "position": "Business Development" },
+    { "id": 6, "name": "Ganesh", "email":"abc@abc.com", "salary":"8 LPA", "phone":"9000099009", "picture":"https://images.unsplash.com/photo-1597248374161-426f0d6d2fc9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60", "position": "Web Dev" }
+  ]
+}
